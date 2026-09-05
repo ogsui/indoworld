@@ -1,0 +1,6 @@
+{
+  "name": "Indoworld Tourism Services",
+  "description": "Official portal of Indoworld Tourism Services in Sector 1, Vaishali, Ghaziabad. Curated domestic and international tour packages, verified hotel bookings, flight reservations, and luxury cab services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
